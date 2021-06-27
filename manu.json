@@ -1,0 +1,942 @@
+[
+    {
+        "id": "Azerbaijan",
+        "title": "Azerbaijan",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Argentina",
+        "title": "Argentina",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Armenia",
+        "title": "Armenia",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Australia",
+        "title": "Australia",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Apply to Kazakhstan Embassy with Permission from MVK", 
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Austria",
+        "title": "Austria",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Apply to Kazakhstan Embassy with Permission from MVK", 
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Afghanistan",
+        "title": "Afghanistan",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Belarus",
+        "title": "Belarus",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Brazil",
+        "title": "Brazil",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Bahrain",
+        "title": "Bahrain",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Belgium",
+        "title": "Belgium",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Bulgaria",
+        "title": "Bulgaria",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Canada",
+        "title": "Canada",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Cyprus",
+        "title": "Cyprus",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Colombia",
+        "title": "Colombia",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Croatia",
+        "title": "Croatia",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Czech Republic",
+        "title": "Czech Republic",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Chile",
+        "title": "Chile",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "China",
+        "title": "China",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Cuba",
+        "title": "Cuba",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Denmark",
+        "title": "Denmark",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Dominicana",
+        "title": "Dominicana",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Ecuador",
+        "title": "Ecuador",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Estonia",
+        "title": "Estonia",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Egypt",
+        "title": "Egypt",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Finland",
+        "title": "Finland",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "France",
+        "title": "France",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Georgia",
+        "title": "Georgia",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Germany",
+        "title": "Germany",
+        "visa": true,
+        "permission": false,
+        "list": [
+            "Apply to Kazakhstan Embassy for Visa", 
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Greece",
+        "title": "Greece",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Hong Kong",
+        "title": "Hong Kong",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Hungary",
+        "title": "Hungary",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Israel",
+        "title": "Israel",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Indonesia",
+        "title": "Indonesia",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Ireland",
+        "title": "Ireland",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Iceland",
+        "title": "Iceland",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "India",
+        "title": "India",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Iran",
+        "title": "Iran",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Japan",
+        "title": "Japan",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Jordan",
+        "title": "Jordan",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Korea",
+        "title": "Korea",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Kyrgyzstan",
+        "title": "Kyrgyzstan",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Kuwait",
+        "title": "Kuwait",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Latvia",
+        "title": "Latvia",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Liechtenstein",
+        "title": "Liechtenstein",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Luxembourg",
+        "title": "Luxembourg",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Lithuania",
+        "title": "Lithuania",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Moldova",
+        "title": "Moldova",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Mongolia",
+        "title": "Mongolia",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Malaysia",
+        "title": "Malaysia",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Malta",
+        "title": "Malta",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Mexico",
+        "title": "Mexico",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Monaco",
+        "title": "Monaco",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Maldives",
+        "title": "Maldives",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Morocco",
+        "title": "Morocco",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Netherlands",
+        "title": "Netherlands",
+        "visa": true,
+        "permission": false,
+        "list": [
+            "Apply to Kazakhstan Embassy for Visa", 
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "New Zeland",
+        "title": "New Zeland",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Norway",
+        "title": "Norway",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Oman",
+        "title": "Oman",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Poland",
+        "title": "Poland",
+        "visa": true,
+        "permission": false,
+        "list": [
+            "Apply to Kazakhstan Embassy for Visa", 
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Philippines",
+        "title": "Philippines",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Portugal",
+        "title": "Portugal",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Pakistan",
+        "title": "Pakistan",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Qatar",
+        "title": "Qatar",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Russia",
+        "title": "Russia",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Romania",
+        "title": "Romania",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Serbia",
+        "title": "Serbia",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Spain",
+        "title": "Spain",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Saudi Arabia",
+        "title": "Saudi Arabia",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Singapore",
+        "title": "Singapore",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Slovakia",
+        "title": "Slovakia",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Slovenia",
+        "title": "Slovenia",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Switzerland",
+        "title": "Switzerland",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Sweden",
+        "title": "Sweden",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Sri Lanka",
+        "title": "Sri Lanka",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Tajikistan",
+        "title": "Tajikistan",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Turkey",
+        "title": "Turkey",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Thailand",
+        "title": "Thailand",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Turkmenistan",
+        "title": "Turkmenistan",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "UAE",
+        "title": "UAE",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Uzbekistan",
+        "title": "Uzbekistan",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Ukraine",
+        "title": "Ukraine",
+        "visa": false,
+        "permission": false,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "UN",
+        "title": "UN",
+        "visa": false,
+        "permission": true,
+        "list": [
+            "PCR 72 Hours", 
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "United Kingdom",
+        "title": "United Kingdom",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "USA",
+        "title": "USA",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Vatican",
+        "title": "Vatican",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
+        "id": "Vietnam",
+        "title": "Vietnam",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to kazakhstan embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    }
+]
