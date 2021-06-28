@@ -7,8 +7,8 @@ window.addEventListener('DOMContentLoaded', () => {
 
 	const tabsContainer = document.querySelector('.tabscontainer'),
 		tabHeader = document.querySelector('.tabheader'),
-		tabHeaderItems = document.querySelector('.tabheader'),
-		tabContentContainer = document.querySelector('.tabheader');
+		tabHeaderItems = document.querySelector('.tabheader__items'),
+		tabsContentContainer = document.querySelector('.tabcontent__container');
 
 	/*
 		* Создаем функцию getData которая получает данные с файла city.json
@@ -45,13 +45,79 @@ window.addEventListener('DOMContentLoaded', () => {
 		* Создаем функцию "createCityInfo" которая нам будет генерировать контент для городов
 	*/
 
-	const createCityInfo = () => {
+	const createCityInfo = ({ title, visa, permission, list }) => {
 
-		const cityInfo = ``;
+		/*
+			* Создаем переменные "textVisa" и "textPermission" и записываем текст в зависимости от условия
+		*/
 
+		let textVisa;
+		let textPermission;
+
+		if( visa === true) {
+			textVisa = "Visa Required";
+		} else {
+			textVisa = "No Visa Required"
+		}
+
+		if( permission === true ) {
+			textPermission = "Permission from MVK (ask Iteca)";
+		} else {
+			textPermission = "No Permission from MVK"
+		}
+
+		const cityInfo = `
+			<div class="tabcontent">
+				<h3 class="tabcontent__title">
+					${title}
+				</h3>
+
+				<div class="tabcontent__info--block">
+					<div class="tabcontent__info">
+						${textVisa}
+					</div>
+					<!-- /.tabcontent__info--visa -->
+					<div class="tabcontent__info">
+						${textPermission}
+					</div>
+					<!-- /.tabcontent__info--mvc -->
+				</div>
+				<!-- /.tabcontent__info--block -->
+				<ul class="tabcontent__info--list">
+					${list.map((item) => `
+						<li class="tabcontent__info--item">
+							<a href="#">${item}</a>
+						</li>
+					`)}
+				</ul>
+			</div>
+			<!-- /.tabcontent -->
+		`;
+
+		tabsContentContainer.insertAdjacentHTML('beforeend', cityInfo);
 	};
 
+	/*
+		* Создаем функцию которая изначально скрывает контент
+	*/
 
+	const tabs = document.querySelectorAll('.tabheader__items .tabheader__item'),
+		tabsContent = document.querySelectorAll('.tabcontent__container .tabcontent');
+			
+	console.log('tabs', tabs);
+
+	const hideTabContent = () => {
+		
+		tabsContent.forEach(item => {
+			item.classList.add('hide');
+			item.classList.remove('show', 'fade');
+		});
+
+		tabs.forEach(item => {
+			item.classList.remove('tabheader__item_active');
+		});
+	};
+	
 	const init = () => {
 
 		/*
@@ -61,7 +127,11 @@ window.addEventListener('DOMContentLoaded', () => {
 		getData('../city.json').then((data) => {
 			console.log('data', data);
 			data.forEach(createCityList);
+			data.forEach(createCityInfo);
 		});
+
+		hideTabContent();
+
 
 	};
 
