@@ -76,7 +76,7 @@ ol, ul {
 .tabheader {
     position: relative;
     width: 320px;
-    max-height: 420px;
+    max-height: 475px;
     margin-right: 30px;
     background-color: #F5F5F7;
     overflow-x: hidden;
@@ -94,6 +94,7 @@ ol, ul {
 
 .tabheader__item:hover {
     background-color: #8ab037;
+    color: #fff;
 }
 
 .tabheader::-webkit-scrollbar{

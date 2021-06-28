@@ -84,7 +84,7 @@ window.addEventListener('DOMContentLoaded', () => {
 				</div>
 				<!-- /.tabcontent__info--block -->
 				<ul class="tabcontent__info--list">
-					${list.map((item) => `
+					${list.forEach((item) => `
 						<li class="tabcontent__info--item">
 							<a href="#">${item}</a>
 						</li>
@@ -101,23 +101,25 @@ window.addEventListener('DOMContentLoaded', () => {
 		* Создаем функцию которая изначально скрывает контент
 	*/
 
-	const tabs = document.querySelectorAll('.tabheader__items .tabheader__item'),
-		tabsContent = document.querySelectorAll('.tabcontent__container .tabcontent');
-			
-	console.log('tabs', tabs);
-
-	const hideTabContent = () => {
-		
+	const hideTabContent = (tabs, tabsContent) => {
 		tabsContent.forEach(item => {
-			item.classList.add('hide');
-			item.classList.remove('show', 'fade');
-		});
+            item.classList.add('hide');
+            item.classList.remove('show', 'fade');
+        });
 
-		tabs.forEach(item => {
-			item.classList.remove('tabheader__item_active');
-		});
+        tabs.forEach(item => {
+            item.classList.remove('tabheader__item_active');
+        });
 	};
-	
+
+	const showTabContent = ( tabs, tabsContent, i = 0) => {
+
+        tabsContent[i].classList.add('show', 'fade');
+        tabsContent[i].classList.remove('hide');
+        tabs[i].classList.add('tabheader__item_active');
+
+    };
+
 	const init = () => {
 
 		/*
@@ -128,10 +130,13 @@ window.addEventListener('DOMContentLoaded', () => {
 			console.log('data', data);
 			data.forEach(createCityList);
 			data.forEach(createCityInfo);
+
+			const tabs = document.querySelectorAll('.tabheader__item'),
+				tabsContent = document.querySelectorAll('.tabcontent');
+			
+			hideTabContent(tabs, tabsContent);
+			showTabContent(tabs, tabsContent);
 		});
-
-		hideTabContent();
-
 
 	};
 
