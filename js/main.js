@@ -84,11 +84,13 @@ window.addEventListener('DOMContentLoaded', () => {
 				</div>
 				<!-- /.tabcontent__info--block -->
 				<ul class="tabcontent__info--list">
-					${list.forEach((item) => `
-						<li class="tabcontent__info--item">
-							<a href="#">${item}</a>
-						</li>
-					`)}
+					${list.map(el => {
+						console.log(el);
+						return `<li class="tabcontent__info--item">
+											<a href="#">${el}</a>
+										</li>`}
+						
+					).join('')}
 				</ul>
 			</div>
 			<!-- /.tabcontent -->
