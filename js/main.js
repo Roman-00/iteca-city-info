@@ -5,10 +5,10 @@ window.addEventListener('DOMContentLoaded', () => {
 		* Получаем елементы с html, и записываем их в переменные
 	*/
 
-	const tabsContainer = document.querySelector('.tabscontainer'),
-		tabHeader = document.querySelector('.tabheader'),
+	const tabHeader = document.querySelector('.tabheader'),
 		tabHeaderItems = document.querySelector('.tabheader__items'),
-		tabsContentContainer = document.querySelector('.tabcontent__container');
+		tabsContentContainer = document.querySelector('.tabcontent__container'),
+		inputSearch = document.getElementById('inputSearch');
 
 	/*
 		* Создаем функцию getData которая получает данные с файла city.json
@@ -57,13 +57,13 @@ window.addEventListener('DOMContentLoaded', () => {
 		if( visa === true) {
 			textVisa = "Visa Required";
 		} else {
-			textVisa = "No Visa Required"
+			textVisa = "No Visa Required";
 		}
 
 		if( permission === true ) {
 			textPermission = "Permission from MVK (ask Iteca)";
 		} else {
-			textPermission = "No Permission from MVK"
+			textPermission = "No Permission from MVK";
 		}
 
 		const cityInfo = `
@@ -85,7 +85,6 @@ window.addEventListener('DOMContentLoaded', () => {
 				<!-- /.tabcontent__info--block -->
 				<ul class="tabcontent__info--list">
 					${list.map(el => {
-						console.log(el);
 						return `<li class="tabcontent__info--item">
 											<a href="#">${el}</a>
 										</li>`}
@@ -99,47 +98,73 @@ window.addEventListener('DOMContentLoaded', () => {
 		tabsContentContainer.insertAdjacentHTML('beforeend', cityInfo);
 	};
 
-	/*
-		* Создаем функцию которая изначально скрывает контент
-	*/
-
-	const hideTabContent = (tabs, tabsContent) => {
-		tabsContent.forEach(item => {
-            item.classList.add('hide');
-            item.classList.remove('show', 'fade');
-        });
-
-        tabs.forEach(item => {
-            item.classList.remove('tabheader__item_active');
-        });
-	};
-
-	const showTabContent = ( tabs, tabsContent, i = 0) => {
-
-        tabsContent[i].classList.add('show', 'fade');
-        tabsContent[i].classList.remove('hide');
-        tabs[i].classList.add('tabheader__item_active');
-
-    };
-
 	const init = () => {
 
 		/*
 			* Получаем список городов с файла city.json
 		*/
 
-		getData('../city.json').then((data) => {
-			console.log('data', data);
+		getData('https://onsite.iteca.kz/img/city/city.json').then((data) => {
 			data.forEach(createCityList);
 			data.forEach(createCityInfo);
 
-			const tabs = document.querySelectorAll('.tabheader__item'),
-				tabsContent = document.querySelectorAll('.tabcontent');
-			
-			hideTabContent(tabs, tabsContent);
-			showTabContent(tabs, tabsContent);
-		});
+			const tabs = document.querySelectorAll('.tabheader__items .tabheader__item'),
+				tabsContent = document.querySelectorAll('.tabcontent__container .tabcontent');
 
+			const hideTabContent = () => {
+	
+				tabsContent.forEach(item => {
+					item.classList.add('hide');
+					item.classList.remove('show', 'fade');
+				});
+		
+				tabs.forEach(item => {
+					item.classList.remove('tabheader__item_active');
+				});
+			};
+
+			const showTabContent = ( i = 0 ) => {
+
+				tabsContent[i].classList.add('show', 'fade');
+				tabsContent[i].classList.remove('hide');
+				tabs[i].classList.add('tabheader__item_active');
+
+			};
+
+			hideTabContent();
+			showTabContent();
+
+			tabHeader.addEventListener('click', (event) => {
+			
+				const target = event.target;
+
+				if (target && target.classList.contains('tabheader__item')) {
+					tabs.forEach((item, i) => {
+						if (target == item) {
+							hideTabContent();
+							showTabContent(i);
+						}
+					});
+				}
+
+			});
+
+			inputSearch.oninput = function () {
+				let value = this.value.trim('');
+
+				if(value != '') {
+					tabs.forEach(el => {
+						if(el.innerText.search(value) == -1) {
+							el.classList.add('hide');
+						}
+					});
+				} else {
+					tabs.forEach(el => {
+						el.classList.remove('hide');
+					});
+				}
+			};
+		});
 	};
 
 	init();
