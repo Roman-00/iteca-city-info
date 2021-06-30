@@ -113,6 +113,7 @@ ol, ul {
     left: 0;
     right: 0;
     width: 100%;
+    background: #fff;
 }
 
 .tabheader__input--block input{
