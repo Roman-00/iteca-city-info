@@ -104,7 +104,7 @@ window.addEventListener('DOMContentLoaded', () => {
 			* Получаем список городов с файла city.json
 		*/
 
-		getData('https://onsite.iteca.kz/img/city/city.json').then((data) => {
+		getData('https://onsite.iteca.kz/img/city/city.txt').then((data) => {
 			data.forEach(createCityList);
 			data.forEach(createCityInfo);
 
