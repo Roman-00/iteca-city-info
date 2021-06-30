@@ -34,7 +34,7 @@ window.addEventListener('DOMContentLoaded', () => {
 	const createCityList = ({ id, title }) => {
 
 		const cityList = `
-			<div class="tabheader__item tabheader__item_active" data_id="${id}">${title}</div>
+			<div class="tabheader__item uk-button-primary tabheader__item_active" data_id="${id}">${title}</div>
 			<!-- /.tabheader__item -->
 		`;
 
@@ -47,25 +47,6 @@ window.addEventListener('DOMContentLoaded', () => {
 
 	const createCityInfo = ({ title, visa, permission, list }) => {
 
-		/*
-			* Создаем переменные "textVisa" и "textPermission" и записываем текст в зависимости от условия
-		*/
-
-		let textVisa;
-		let textPermission;
-
-		if( visa === true) {
-			textVisa = "Visa Required";
-		} else {
-			textVisa = "No Visa Required";
-		}
-
-		if( permission === true ) {
-			textPermission = "Permission from MVK (ask Iteca)";
-		} else {
-			textPermission = "No Permission from MVK";
-		}
-
 		const cityInfo = `
 			<div class="tabcontent">
 				<h3 class="tabcontent__title">
@@ -73,12 +54,12 @@ window.addEventListener('DOMContentLoaded', () => {
 				</h3>
 
 				<div class="tabcontent__info--block">
-					<div class="tabcontent__info">
-						${textVisa}
+					<div class="${visa ? 'tabcontent__info false' : "tabcontent__info true"}">
+						${visa ? "No Visa Required" : "Visa Required"}
 					</div>
 					<!-- /.tabcontent__info--visa -->
-					<div class="tabcontent__info">
-						${textPermission}
+					<div class="${permission ? 'tabcontent__info false' : "tabcontent__info true"}">
+						${permission ? "No Permission from MVK" : "Permission from MVK (ask Iteca)"}
 					</div>
 					<!-- /.tabcontent__info--mvc -->
 				</div>
@@ -115,19 +96,19 @@ window.addEventListener('DOMContentLoaded', () => {
 	
 				tabsContent.forEach(item => {
 					item.classList.add('hide');
-					item.classList.remove('show', 'fade');
+					item.classList.remove('show');
 				});
 		
 				tabs.forEach(item => {
-					item.classList.remove('tabheader__item_active');
+					item.classList.remove('uk-button-primary', 'tabheader__item_active');
 				});
 			};
 
 			const showTabContent = ( i = 0 ) => {
 
-				tabsContent[i].classList.add('show', 'fade');
+				tabsContent[i].classList.add('show');
 				tabsContent[i].classList.remove('hide');
-				tabs[i].classList.add('tabheader__item_active');
+				tabs[i].classList.add('uk-button-primary', 'tabheader__item_active');
 
 			};
 

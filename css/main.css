@@ -46,26 +46,16 @@ ol, ul {
     display: none;
 }
 
-.fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
+.true {
+    border: 3px solid #8ab037 !important;
 }
 
-.tabheader__item_active {
-    font-size: 16px;
-    font-weight: 700;
-    background-color: #1e793c;
-    color: #fff;
+.false {
+    border: 3px solid #e01f28 !important;
 }
 
-@keyframes fade {
-    form {
-        opacity: 0.1;
-    }
-
-    to {
-        opacity: 1;
-    }
+.city {
+    margin: 0 0 30px 0;
 }
 
 .tabscontainer {
@@ -92,9 +82,9 @@ ol, ul {
     -o-transition: all 0.2s;
 }
 
-.tabheader__item:hover {
-    background-color: #8ab037;
-    color: #fff;
+.tabheader__item:hover:not(.tabheader__item_active) {
+    background-color: #fff;
+    color: #000;
 }
 
 .tabheader::-webkit-scrollbar{
@@ -113,7 +103,7 @@ ol, ul {
     left: 0;
     right: 0;
     width: 100%;
-    background: #fff;
+    background: #f5f5f7;
 }
 
 .tabheader__input--block input{
