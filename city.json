@@ -338,6 +338,17 @@
         ]
     },
     {
+        "id": "Italy",
+        "title": "Italy",
+        "visa": true,
+        "permission": true,
+        "list": [
+        "Apply to Kazakhstan Embassy with Permission from mvk", 
+        "Pcr test 72 hours", 
+        "Ashyq app download Before flight"
+        ]
+    },
+    {
         "id": "Israel",
         "title": "Israel",
         "visa": true,
@@ -582,6 +593,18 @@
     {
         "id": "Morocco",
         "title": "Morocco",
+        "visa": true,
+        "permission": true,
+        "list": [
+            "Visa Support (apply to official Travel Agency)", 
+            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
+            "PCR 72 Hours",
+            "Ashyq App download before flight"
+        ]
+    },
+    {
+        "id": "Montenegro",
+        "title": "Montenegro",
         "visa": true,
         "permission": true,
         "list": [

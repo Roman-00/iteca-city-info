@@ -54,12 +54,12 @@ window.addEventListener('DOMContentLoaded', () => {
 				</h3>
 
 				<div class="tabcontent__info--block">
-					<div class="${visa ? 'tabcontent__info false' : "tabcontent__info true"}">
-						${visa ? "No Visa Required" : "Visa Required"}
+					<div class="${visa ? 'tabcontent__info true' : "tabcontent__info false"}">
+						${visa ? 'Visa Required' : "No Visa Required"}
 					</div>
 					<!-- /.tabcontent__info--visa -->
-					<div class="${permission ? 'tabcontent__info false' : "tabcontent__info true"}">
-						${permission ? "No Permission from MVK" : "Permission from MVK (ask Iteca)"}
+					<div class="${permission ? 'tabcontent__info true' : "tabcontent__info false"}">
+						${permission ? "Permission from MVK (ask Iteca)" : "No Permission from MVK"}
 					</div>
 					<!-- /.tabcontent__info--mvc -->
 				</div>
@@ -85,7 +85,7 @@ window.addEventListener('DOMContentLoaded', () => {
 			* Получаем список городов с файла city.json
 		*/
 
-		getData('https://onsite.iteca.kz/img/city/city.txt').then((data) => {
+		getData('https://onsite.iteca.kz/img/city/city-list.txt').then((data) => {
 			data.forEach(createCityList);
 			data.forEach(createCityInfo);
 

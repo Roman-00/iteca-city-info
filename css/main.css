@@ -65,7 +65,8 @@ ol, ul {
 
 .tabheader {
     position: relative;
-    width: 320px;
+    width: 100%;
+    max-width: 320px;
     max-height: 475px;
     margin-right: 30px;
     background-color: #F5F5F7;
@@ -171,4 +172,35 @@ ol, ul {
     font-weight: 700;
     color: #646464;
     text-transform: uppercase;
+}
+
+@media screen and (max-width: 820px) {
+    .tabcontent__info--block {
+        flex-wrap: wrap;
+    }
+
+    .tabcontent__info:last-of-type {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 625px) {
+    .tabheader {
+        margin: auto;
+    }
+
+    .tabscontainer {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .tabcontent__title {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .tabcontent__info--block {
+        justify-content: center;
+    }
 }
