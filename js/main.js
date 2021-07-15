@@ -67,7 +67,7 @@ window.addEventListener('DOMContentLoaded', () => {
 				<ul class="tabcontent__info--list">
 					${list.map(el => {
 						return `<li class="tabcontent__info--item">
-											<a target="_blank" href="${el.link}">${el.text}</a>
+											<a target="_blank" class="tabcontent__info--item-link" href="${el.link}">${el.text}</a>
 										</li>`}
 						
 					).join('')}
@@ -85,12 +85,18 @@ window.addEventListener('DOMContentLoaded', () => {
 			* Получаем список городов с файла city.json
 		*/
 
-		getData('../city.json').then((data) => {
+		getData('https://onsite.iteca.kz/img/city/city-json-new.txt').then((data) => {
 			data.forEach(createCityList);
 			data.forEach(createCityInfo);
 
 			const tabs = document.querySelectorAll('.tabheader__items .tabheader__item'),
-				tabsContent = document.querySelectorAll('.tabcontent__container .tabcontent');
+				tabsContent = document.querySelectorAll('.tabcontent__container .tabcontent'),
+				tabcontentInfoItem = document.querySelectorAll('.tabcontent__info--item-link');
+				
+			tabcontentInfoItem.forEach((el) => {
+				let data = el.href.replace('https://foodexpo.kz/', '');
+				el.setAttribute('href', data);
+			});
 
 			const hideTabContent = () => {
 	
