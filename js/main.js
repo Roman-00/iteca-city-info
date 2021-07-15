@@ -59,7 +59,9 @@ window.addEventListener('DOMContentLoaded', () => {
 					</div>
 					<!-- /.tabcontent__info--visa -->
 					<div class="${permission ? 'tabcontent__info true' : "tabcontent__info false"}">
-						${permission ? "Permission from Inter-Governmental Comission (ask Iteca)" : "No Permission from Inter-Governmental Comission"}
+						<a href="mailto:logistics@iteca.kz?subject=WE NEED PERMISSION FROM INTER-GOVERNMENTAL COMISSION">
+							${permission ? "Permission from Inter-Governmental Comission (ask Iteca)" : "No Permission from Inter-Governmental Comission"}
+						</a>
 					</div>
 					<!-- /.tabcontent__info--mvc -->
 				</div>

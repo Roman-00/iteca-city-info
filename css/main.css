@@ -149,6 +149,11 @@ ol, ul {
     border: 3px solid #F5F5F7;
 }
 
+.tabcontent__info a {
+    text-decoration: none;
+    color: #646464;
+}
+
 .tabcontent__info--true {
     border: 3px solid #8ab037;
 }
