@@ -59,7 +59,7 @@ window.addEventListener('DOMContentLoaded', () => {
 					</div>
 					<!-- /.tabcontent__info--visa -->
 					<div class="${permission ? 'tabcontent__info true' : "tabcontent__info false"}">
-						${permission ? "Permission from MVK (ask Iteca)" : "No Permission from MVK"}
+						${permission ? "Permission from Inter-Governmental Comission (ask Iteca)" : "No Permission from Inter-Governmental Comission"}
 					</div>
 					<!-- /.tabcontent__info--mvc -->
 				</div>
@@ -67,7 +67,7 @@ window.addEventListener('DOMContentLoaded', () => {
 				<ul class="tabcontent__info--list">
 					${list.map(el => {
 						return `<li class="tabcontent__info--item">
-											<a href="#">${el}</a>
+											<a target="_blank" href="${el.link}">${el.text}</a>
 										</li>`}
 						
 					).join('')}
@@ -85,7 +85,7 @@ window.addEventListener('DOMContentLoaded', () => {
 			* Получаем список городов с файла city.json
 		*/
 
-		getData('https://onsite.iteca.kz/img/city/city-list.txt').then((data) => {
+		getData('../city.json').then((data) => {
 			data.forEach(createCityList);
 			data.forEach(createCityInfo);
 
@@ -135,7 +135,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 				if(value != '') {
 					tabs.forEach(el => {
-						if(el.innerText.search(value) == -1) {
+						if(el.innerText.search(RegExp(value,"gi")) == -1) {
 							el.classList.add('hide');
 						}
 					});

@@ -5,8 +5,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -15,8 +25,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -25,8 +45,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -35,9 +65,22 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Apply to Kazakhstan Embassy with Permission from MVK", 
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -46,9 +89,22 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Apply to Kazakhstan Embassy with Permission from MVK", 
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -57,10 +113,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -69,8 +141,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -79,8 +161,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -89,9 +181,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -100,9 +205,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -111,9 +229,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -122,9 +253,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -133,9 +277,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -144,9 +301,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -155,9 +325,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -166,9 +349,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -177,9 +373,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -188,10 +397,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -200,10 +425,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -212,9 +453,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -223,10 +477,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -235,8 +505,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -245,9 +525,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -256,10 +549,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -268,9 +577,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -279,9 +601,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -290,8 +625,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -300,9 +645,22 @@
         "visa": true,
         "permission": false,
         "list": [
-            "Apply to Kazakhstan Embassy for Visa", 
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy for Visa",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -311,9 +669,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -322,8 +693,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -332,9 +713,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -343,9 +737,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to Kazakhstan Embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -354,9 +761,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -365,9 +785,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -376,9 +809,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -387,9 +833,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -398,10 +857,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -410,10 +885,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -422,9 +913,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -433,10 +937,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -445,8 +965,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -455,8 +985,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -465,9 +1005,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -476,9 +1029,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -487,9 +1053,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -498,9 +1077,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -509,9 +1101,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -520,8 +1125,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -530,8 +1145,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -540,9 +1165,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -551,9 +1189,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -562,9 +1213,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -573,9 +1237,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -584,10 +1261,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -596,10 +1289,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -608,10 +1317,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -620,9 +1345,22 @@
         "visa": true,
         "permission": false,
         "list": [
-            "Apply to Kazakhstan Embassy for Visa", 
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy for Visa",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -631,9 +1369,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -642,9 +1393,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -653,9 +1417,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -664,9 +1441,22 @@
         "visa": true,
         "permission": false,
         "list": [
-            "Apply to Kazakhstan Embassy for Visa", 
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy for Visa",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -675,9 +1465,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -686,9 +1489,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -697,10 +1513,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -709,9 +1541,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -720,8 +1565,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -730,10 +1585,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -742,8 +1613,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -752,9 +1633,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -763,9 +1657,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -774,9 +1681,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -785,9 +1705,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -796,9 +1729,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -807,9 +1753,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -818,9 +1777,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -829,10 +1801,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -841,8 +1829,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -851,8 +1849,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -861,9 +1869,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -872,10 +1893,26 @@
         "visa": true,
         "permission": true,
         "list": [
-            "Visa Support (apply to official Travel Agency)", 
-            "Apply to KZ Embassy with Permission from MVK and Visa Support", 
-            "PCR 72 Hours",
-            "Ashyq App download before flight"
+            {
+                "text": "Visa Support (apply to official Travel Agency)",
+                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+            },
+            {
+                "text": "Apply to KZ Embassy with Permission from IGS and Visa Support",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -884,8 +1921,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -894,8 +1941,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -904,8 +1961,18 @@
         "visa": false,
         "permission": false,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -914,8 +1981,18 @@
         "visa": false,
         "permission": true,
         "list": [
-            "PCR 72 Hours", 
-            "Ashyq App download before flight"
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -924,9 +2001,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -935,9 +2025,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -946,9 +2049,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     },
     {
@@ -957,9 +2073,22 @@
         "visa": true,
         "permission": true,
         "list": [
-        "Apply to kazakhstan embassy with Permission from mvk", 
-        "Pcr test 72 hours", 
-        "Ashyq app download Before flight"
+            {
+                "text": "Apply to Kazakhstan Embassy with Permission from IGC",
+                "link": "#"
+            },
+            {
+                "text": "PCR 72 Hours OR",
+                "link": "#"
+            },
+            {
+                "text": "Recognize passports / certificates / vaccination certificates valid in the territory of the Republic of Kazakhstan",
+                "link": "#"
+            },
+            {
+                "text": "Ashyq App download before flight",
+                "link": "https://ashyq.kz/"
+            }
         ]
     }
 ]
