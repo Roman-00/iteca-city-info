@@ -87,7 +87,7 @@ window.addEventListener('DOMContentLoaded', () => {
 			* Получаем список городов с файла city.json
 		*/
 
-		getData('../city.json').then((data) => {
+		getData('../city-json.txt').then((data) => {
 			data.forEach(createCityList);
 			data.forEach(createCityInfo);
 

@@ -6,11 +6,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -22,11 +22,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -38,11 +38,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -58,11 +58,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -78,11 +78,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -102,11 +102,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -118,11 +118,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -134,11 +134,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -154,11 +154,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -174,11 +174,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -194,11 +194,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -214,11 +214,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -234,11 +234,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -254,11 +254,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -274,11 +274,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -294,11 +294,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -314,11 +314,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -338,11 +338,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -362,11 +362,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -382,11 +382,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -406,11 +406,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -422,11 +422,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -442,11 +442,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -466,11 +466,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -486,11 +486,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -506,11 +506,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -522,11 +522,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours OR Vaccination certificates",
+                "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -542,11 +542,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -562,11 +562,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -578,11 +578,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -598,11 +598,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours OR Vaccination certificates",
+                "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -618,11 +618,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -638,11 +638,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -658,11 +658,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -678,11 +678,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -698,11 +698,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -722,11 +722,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -746,11 +746,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -766,11 +766,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -790,11 +790,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -806,11 +806,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -822,11 +822,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours OR Vaccination certificates",
+                "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -842,11 +842,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -862,11 +862,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -882,11 +882,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -902,11 +902,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -922,11 +922,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -938,11 +938,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours OR Vaccination certificates",
+                "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -954,11 +954,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours OR Vaccination certificates",
+                "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -974,11 +974,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -994,11 +994,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1014,11 +1014,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1034,11 +1034,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1058,11 +1058,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1082,11 +1082,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1106,11 +1106,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1126,11 +1126,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1146,11 +1146,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1166,11 +1166,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1186,11 +1186,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1206,11 +1206,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1226,11 +1226,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1246,11 +1246,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1270,11 +1270,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1290,11 +1290,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1306,11 +1306,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1330,11 +1330,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1346,11 +1346,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1366,11 +1366,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1386,11 +1386,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1406,11 +1406,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1426,11 +1426,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1446,11 +1446,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1466,11 +1466,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1486,11 +1486,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1510,11 +1510,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1526,11 +1526,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1542,11 +1542,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1562,11 +1562,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours OR Vaccination certificates",
+                "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1586,11 +1586,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1602,11 +1602,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1618,11 +1618,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1634,11 +1634,11 @@
         "permission": false,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1650,11 +1650,11 @@
         "permission": true,
         "list": [
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1670,11 +1670,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1690,11 +1690,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1710,11 +1710,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
@@ -1730,11 +1730,11 @@
                 "link": "#"
             },
             {
-                "text": "PCR 72 Hours",
+                "text": "Receive pcr 72 hours before",
                 "link": "#"
             },
             {
-                "text": "Ashyq App download before flight",
+                "text": "Download Ashyq app before flight",
                 "link": "https://ashyq.kz/"
             }
         ]
