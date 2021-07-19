@@ -45,7 +45,7 @@ window.addEventListener('DOMContentLoaded', () => {
 		* Создаем функцию "createCityInfo" которая нам будет генерировать контент для городов
 	*/
 
-	const createCityInfo = ({ title, visa, permission, list }) => {
+	const createCityInfo = ({ title, visa, permission, list, note }) => {
 
 		const cityInfo = `
 			<div class="tabcontent">
@@ -60,20 +60,29 @@ window.addEventListener('DOMContentLoaded', () => {
 					<!-- /.tabcontent__info--visa -->
 					<div class="${permission ? 'tabcontent__info true' : "tabcontent__info false"}">
 						<a href="mailto:logistics@iteca.kz?subject=WE NEED PERMISSION FROM INTER-GOVERNMENTAL COMMISSION">
-							${permission ? "Permission from Inter-Governmental Commission (ask Iteca)" : "No Permission from Inter-Governmental Commission"}
+							${permission ? "Permission Required from Inter-Governmental Commission (IGC)" : "No Permission Required from Inter-Governmental Commission"}
 						</a>
 					</div>
 					<!-- /.tabcontent__info--mvc -->
 				</div>
 				<!-- /.tabcontent__info--block -->
+				<div class="${permission ? 'ask_done show' : 'ask_done hide'}">
+					<a href="${permission ? 'mailto:logistics@iteca.kz' : '/'}" class="${permission ? 'ask__done--text' : 'ask__done--text'}">
+						Ask Iteca Permission from IGC
+					</a>
+				</div>
 				<ul class="tabcontent__info--list">
 					${list.map(el => {
 						return `<li class="tabcontent__info--item">
-											<a target="_blank" class="tabcontent__info--item-link" href="${el.link}">${el.text}</a>
+											<a target="_blank" class="${el.link ? 'tabcontent__info--item-link' : 'tabcontent__info--item-link no-link'}" href="${el.link}">${el.text}</a>
 										</li>`}
 						
 					).join('')}
 				</ul>
+				<div class="${note ? 'note__block show' : 'note__block hide'}">
+						<span class="note__block--title">${note ? 'PLEASE NOTE:' : ''}</span>
+						<span class="note__block--text">${note ? 'During your stay, please have identification (copy of Passport), to enter public place' : ''}</span>
+				<div>
 			</div>
 			<!-- /.tabcontent -->
 		`;
@@ -87,7 +96,7 @@ window.addEventListener('DOMContentLoaded', () => {
 			* Получаем список городов с файла city.json
 		*/
 
-		getData('https://onsite.iteca.kz/img/city/city-json.txt').then((data) => {
+		getData('https://onsite.iteca.kz/img/city/city-json-new.txt').then((data) => {
 			data.forEach(createCityList);
 			data.forEach(createCityInfo);
 

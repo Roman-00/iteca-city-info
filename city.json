@@ -4,14 +4,11 @@
         "title": "Azerbaijan",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -20,14 +17,11 @@
         "title": "Argentina",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -36,14 +30,11 @@
         "title": "Armenia",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -52,18 +43,15 @@
         "title": "Australia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -72,18 +60,15 @@
         "title": "Austria",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -92,22 +77,19 @@
         "title": "Afghanistan",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -116,14 +98,11 @@
         "title": "Belarus",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -132,14 +111,11 @@
         "title": "Brazil",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -148,18 +124,15 @@
         "title": "Bahrain",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -168,18 +141,15 @@
         "title": "Belgium",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -188,18 +158,15 @@
         "title": "Bulgaria",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -208,18 +175,15 @@
         "title": "Canada",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -228,18 +192,15 @@
         "title": "Cyprus",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -248,18 +209,15 @@
         "title": "Colombia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -268,18 +226,15 @@
         "title": "Croatia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -288,18 +243,15 @@
         "title": "Czech Republic",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -308,18 +260,15 @@
         "title": "Chile",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -328,22 +277,19 @@
         "title": "China",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -352,22 +298,19 @@
         "title": "Cuba",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -376,18 +319,15 @@
         "title": "Denmark",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -396,22 +336,19 @@
         "title": "Dominicana",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -420,14 +357,11 @@
         "title": "Ecuador",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -436,18 +370,15 @@
         "title": "Estonia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -456,22 +387,19 @@
         "title": "Egypt",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -480,18 +408,15 @@
         "title": "Finland",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -500,18 +425,15 @@
         "title": "France",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -520,14 +442,11 @@
         "title": "Georgia",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
                 "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "link": ""
             }
         ]
     },
@@ -536,18 +455,15 @@
         "title": "Germany",
         "visa": true,
         "permission": false,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy for Visa",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -556,18 +472,15 @@
         "title": "Greece",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -576,14 +489,11 @@
         "title": "Hong Kong",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -592,18 +502,15 @@
         "title": "Hungary",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
                 "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "link": ""
             }
         ]
     },
@@ -612,18 +519,15 @@
         "title": "Italy",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -632,18 +536,15 @@
         "title": "Israel",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -652,18 +553,15 @@
         "title": "Indonesia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -672,18 +570,15 @@
         "title": "Ireland",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -692,18 +587,15 @@
         "title": "Iceland",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -712,22 +604,19 @@
         "title": "India",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -736,22 +625,19 @@
         "title": "Iran",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -760,18 +646,15 @@
         "title": "Japan",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -780,22 +663,19 @@
         "title": "Jordan",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -804,14 +684,11 @@
         "title": "Korea",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -820,14 +697,11 @@
         "title": "Kyrgyzstan",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
                 "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "link": ""
             }
         ]
     },
@@ -836,18 +710,15 @@
         "title": "Kuwait",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -856,18 +727,15 @@
         "title": "Latvia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -876,18 +744,15 @@
         "title": "Liechtenstein",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -896,18 +761,15 @@
         "title": "Luxembourg",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -916,18 +778,15 @@
         "title": "Lithuania",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -936,14 +795,11 @@
         "title": "Moldova",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "link": ""
             }
         ]
     },
@@ -952,14 +808,11 @@
         "title": "Mongolia",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "link": ""
             }
         ]
     },
@@ -968,18 +821,15 @@
         "title": "Malaysia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -988,18 +838,15 @@
         "title": "Malta",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1008,18 +855,15 @@
         "title": "Mexico",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1028,18 +872,15 @@
         "title": "Monaco",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1048,22 +889,19 @@
         "title": "Maldives",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1072,22 +910,19 @@
         "title": "Morocco",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1096,22 +931,19 @@
         "title": "Montenegro",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1120,18 +952,15 @@
         "title": "Netherlands",
         "visa": true,
         "permission": false,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy for Visa",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1140,18 +969,15 @@
         "title": "New Zeland",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1160,18 +986,15 @@
         "title": "Norway",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1180,18 +1003,15 @@
         "title": "Oman",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1200,18 +1020,15 @@
         "title": "Poland",
         "visa": true,
         "permission": false,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy for Visa",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1220,18 +1037,15 @@
         "title": "Philippines",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1240,18 +1054,15 @@
         "title": "Portugal",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1260,22 +1071,19 @@
         "title": "Pakistan",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1284,18 +1092,15 @@
         "title": "Qatar",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1304,14 +1109,11 @@
         "title": "Russia",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1320,22 +1122,19 @@
         "title": "Romania",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1344,14 +1143,11 @@
         "title": "Serbia",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1360,18 +1156,15 @@
         "title": "Spain",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1380,18 +1173,15 @@
         "title": "Saudi Arabia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1400,18 +1190,15 @@
         "title": "Singapore",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1420,18 +1207,15 @@
         "title": "Slovakia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1440,18 +1224,15 @@
         "title": "Slovenia",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1460,18 +1241,15 @@
         "title": "Switzerland",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1480,18 +1258,15 @@
         "title": "Sweden",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1500,22 +1275,19 @@
         "title": "Sri Lanka",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1524,14 +1296,11 @@
         "title": "Tajikistan",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1540,14 +1309,11 @@
         "title": "Turkey",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1556,18 +1322,15 @@
         "title": "Thailand",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
                 "text": "Receive pcr 72 hours before or, Provide proof of double vaccination (Passport, certificate)",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "link": ""
             }
         ]
     },
@@ -1576,22 +1339,19 @@
         "title": "Turkmenistan",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Visa Support (apply to official Travel Agency)",
-                "link": "https://lufthansa-city-center.com/en/travel-agency-almaty/bs-travel-almaty/"
+                "text": "Receive Visa Support (apply to official Travel Agency)",
+                "link": "mailto:logistics@iteca.kz"
             },
             {
                 "text": "Apply to KZ Embassy with Permission from IGC and Visa Support",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1600,14 +1360,11 @@
         "title": "UAE",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1616,14 +1373,11 @@
         "title": "Uzbekistan",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1632,14 +1386,11 @@
         "title": "Ukraine",
         "visa": false,
         "permission": false,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1648,14 +1399,11 @@
         "title": "UN",
         "visa": false,
         "permission": true,
+        "note": true,
         "list": [
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1664,18 +1412,15 @@
         "title": "United Kingdom",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1684,18 +1429,15 @@
         "title": "USA",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1704,18 +1446,15 @@
         "title": "Vatican",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     },
@@ -1724,18 +1463,15 @@
         "title": "Vietnam",
         "visa": true,
         "permission": true,
+        "note": true,
         "list": [
             {
                 "text": "Apply to Kazakhstan Embassy with Permission from IGC",
-                "link": "#"
+                "link": ""
             },
             {
-                "text": "Receive pcr 72 hours before",
-                "link": "#"
-            },
-            {
-                "text": "Download Ashyq app before flight",
-                "link": "https://ashyq.kz/"
+                "text": "Receive pcr 72 hours before arrive",
+                "link": ""
             }
         ]
     }

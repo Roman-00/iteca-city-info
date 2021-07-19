@@ -54,6 +54,10 @@ ol, ul {
     border: 3px solid #e01f28 !important;
 }
 
+.no-link {
+    pointer-events: none !important;
+}
+
 .city {
     margin: 0 0 30px 0;
 }
@@ -167,16 +171,42 @@ ol, ul {
 }
 
 .tabcontent__info--list {
-    margin-top: 40px;
+    padding-left: 0 !important;
+    list-style: none;
 }
 
 .tabcontent__info--list .tabcontent__info--item a {
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 24px;
     font-weight: 700;
     color: #646464;
     text-transform: uppercase;
+}
+
+.ask__done--text {
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #646464;
+    text-transform: uppercase;
+}
+
+.note__block--title {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #646464;
+    text-transform: uppercase;
+}
+
+.note__block--text {
+    font-size: 16px;
+    line-height: 1;
+    color: #646464;
 }
 
 @media screen and (max-width: 820px) {
