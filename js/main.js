@@ -59,7 +59,7 @@ window.addEventListener('DOMContentLoaded', () => {
 					</div>
 					<!-- /.tabcontent__info--visa -->
 					<div class="${permission ? 'tabcontent__info true' : "tabcontent__info false"}">
-						<a href="mailto:logistics@iteca.kz?subject=WE NEED PERMISSION FROM INTER-GOVERNMENTAL COMMISSION">
+						<a href="mailto:ask@iteca.kz?subject=WE NEED PERMISSION FROM INTER-GOVERNMENTAL COMMISSION" class="link">
 							${permission ? "Permission Required from Inter-Governmental Commission (IGC)" : "No Permission Required from Inter-Governmental Commission"}
 						</a>
 					</div>
@@ -67,7 +67,7 @@ window.addEventListener('DOMContentLoaded', () => {
 				</div>
 				<!-- /.tabcontent__info--block -->
 				<div class="${permission ? 'ask_done show' : 'ask_done hide'}">
-					<a href="${permission ? 'mailto:logistics@iteca.kz' : '/'}" class="${permission ? 'ask__done--text' : 'ask__done--text'}">
+					<a href="${permission ? 'mailto:ask@iteca.kz' : '/'}" class="${permission ? 'ask__done--text link' : 'ask__done--text link'}">
 						Ask Iteca Permission from IGC
 					</a>
 				</div>
@@ -81,7 +81,7 @@ window.addEventListener('DOMContentLoaded', () => {
 				</ul>
 				<div class="${note ? 'note__block show' : 'note__block hide'}">
 						<span class="note__block--title">${note ? 'PLEASE NOTE:' : ''}</span>
-						<span class="note__block--text">${note ? 'During your stay, please have identification (copy of Passport), to enter public place' : ''}</span>
+						<span class="note__block--text">${note ? 'During your stay, please have identification (copy of Passport), to enter public places' : ''}</span>
 				<div>
 			</div>
 			<!-- /.tabcontent -->
@@ -102,9 +102,15 @@ window.addEventListener('DOMContentLoaded', () => {
 
 			const tabs = document.querySelectorAll('.tabheader__items .tabheader__item'),
 				tabsContent = document.querySelectorAll('.tabcontent__container .tabcontent'),
+				link = document.querySelectorAll('.link'),
 				tabcontentInfoItem = document.querySelectorAll('.tabcontent__info--item-link');
 				
 			tabcontentInfoItem.forEach((el) => {
+				let data = el.href.replace('https://foodexpo.kz/', '');
+				el.setAttribute('href', data);
+			});
+
+			link.forEach((el) => {
 				let data = el.href.replace('https://foodexpo.kz/', '');
 				el.setAttribute('href', data);
 			});
